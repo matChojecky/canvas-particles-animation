@@ -1,4 +1,3 @@
-import { debounce } from 'underscore';
 export default class Particle {
     static randomColor() {
         let color = '#';

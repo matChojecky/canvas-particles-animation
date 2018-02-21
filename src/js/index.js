@@ -1,6 +1,5 @@
 import '../main.css';
 import Particle from './Particle/Particle.js';
-console.log('zis is working');
 
 const particles = [];
 const canvas = document.createElement('canvas');
